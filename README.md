@@ -18,6 +18,6 @@ Sales Trends Over Time – Line plots for daily, monthly, and quarterly sales.
 Domestic vs International Revenue – Pie charts and treemaps.
 Regional Analysis – State, city, and customer-level performance.
 Correlation Heatmaps – Identifying relationships between sales, revenue, and profitability.
-
+https://github.com/OmPatil2806/Products-Sales-Analysis/blob/main/1.png
 Conclusion:
 This analysis highlights the most profitable products, seasonal sales trends, and regional demand patterns. Businesses can use these insights to optimize marketing campaigns, manage inventory efficiently, and forecast future demand. By leveraging customer and product-level insights, Amazon sellers can maximize revenue and improve operational strategies.
